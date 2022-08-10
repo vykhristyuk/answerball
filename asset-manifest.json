@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/answerball/static/css/main.e6c13ad2.css",
+    "main.js": "/answerball/static/js/main.b2c72094.js",
+    "index.html": "/answerball/index.html",
+    "main.e6c13ad2.css.map": "/answerball/static/css/main.e6c13ad2.css.map",
+    "main.b2c72094.js.map": "/answerball/static/js/main.b2c72094.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b2c72094.js"
+  ]
+}
